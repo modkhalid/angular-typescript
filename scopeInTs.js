@@ -15,5 +15,6 @@ var mod = /** @class */ (function () {
 }());
 var m = new mod("modhammad khalid");
 console.log(mod.count);
+console.log(typeof (mod.count));
 console.log(m.toString());
 console.log(m.calcu());
